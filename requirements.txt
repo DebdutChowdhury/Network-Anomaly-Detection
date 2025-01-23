@@ -1,0 +1,10 @@
+docx
+matplotlib
+numpy
+pandas
+python-docx
+python-pptx
+scikit-learn
+scipy
+streamlit
+xgboost

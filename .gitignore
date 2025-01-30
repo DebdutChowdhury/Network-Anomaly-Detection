@@ -127,11 +127,11 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
+.virtual_documents/
 # Spyder project settings
 .spyderproject
 .spyproject
-
+~Network_anomaly_Analysis__6896.twbr
 # Rope project settings
 .ropeproject
 
